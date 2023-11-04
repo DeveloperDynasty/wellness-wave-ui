@@ -10,7 +10,7 @@ We follow a Code of Conduct to ensure a welcoming and inclusive environment for 
 
 Please report bugs and suggest features via the GitHub issue tracker in the respective repositories:
 
-- [Report UI issues](https://github.com/your-organization/wellness-wave-ui/issues)
+- [Report UI issues](https://github.com/DeveloperDynasty/wellness-wave-ui/issues)
 
 ## Development Process
 
