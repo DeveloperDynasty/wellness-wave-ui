@@ -14,35 +14,23 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository:
-```bash
 git clone https://github.com/your-organization/wellness-wave-ui.git
-```
 
 2. Navigate to the project directory:
-```bash
 cd wellness-wave-ui
-```
 
 3. Install the dependencies:
-```bash
 npm install
-```
 or
-```bash
 yarn install
-```
 
 ## Running the Application
 
 Start the development server:
 
-```bash
 npm start
-```
 or
-```bash
 yarn start
-```
 
 The application will be served at `http://localhost:3000/` or the port specified in your `.env` file.
 
@@ -50,13 +38,9 @@ The application will be served at `http://localhost:3000/` or the port specified
 
 To build the application for production, run:
 
-```bash
 npm run build
-```
 or
-```bash
 yarn build
-```
 
 ## Contributing
 
@@ -66,13 +50,9 @@ We encourage contributions from the community. Please check out our [contributin
 
 To run the tests:
 
-```bash
 npm test
-```
 or
-```bash
 yarn test
-```
 
 ## License
 
