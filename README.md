@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [support@wellnesswave.com](mailto:support@wellnesswave.com).
+If you have any questions or feedback, please reach out to us at [721.devdynasty@gmail.com](mailto:721.devdynasty@gmail.com).
 
 ## Acknowledgments
 
