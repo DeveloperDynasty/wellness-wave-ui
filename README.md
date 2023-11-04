@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-organization/wellness-wave-ui.git
+git clone https://github.com/DeveloperDynasty/wellness-wave-ui.git
 
 2. Navigate to the project directory:
 cd wellness-wave-ui
