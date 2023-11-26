@@ -1,0 +1,17 @@
+{
+    "trailingComma": "es5",
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": false,
+    "endOfLine": "crlf",
+    "importOrder": [
+      "^react(.*)",
+      "@reduxjs/(.*)",
+      "antd/(.*)",
+      "<THIRD_PARTY_MODULES>",
+      "@DevDynasty/(.*)",
+      "^[./]"
+    ],
+    "importOrderSeparation": true
+  }
+  

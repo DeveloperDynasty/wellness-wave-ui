@@ -1,0 +1,12 @@
+node_modules
+build/
+.vs/
+.vscode
+*.tfvars
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+*.lock.hcl
+yarn-error.log
+lerna-debug.log
+.env

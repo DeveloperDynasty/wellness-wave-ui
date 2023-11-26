@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@EmBilling/*": ["node_modules/@DevDynasty/*/src"]
+      },
+      "target": "ES5",
+      "module": "ESNext",
+      "moduleResolution": "node",
+      "lib": ["DOM", "ESNext"],
+      "jsx": "react-jsx",
+      "noEmit": true,
+      "isolatedModules": true,
+      "esModuleInterop": true,
+      "strict": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true
+    },
+    "include": ["packages/**/*"],
+    "exclude": [
+      "node_modules",
+      "**/*.spec.ts",
+      "**/*.test.ts",
+      "**/*.stories.tsx"
+    ]
+}
