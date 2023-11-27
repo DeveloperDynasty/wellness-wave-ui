@@ -2,7 +2,7 @@
     "compilerOptions": {
       "baseUrl": "./",
       "paths": {
-        "@EmBilling/*": ["node_modules/@DevDynasty/*/src"]
+        "@wellness-wave-ui/*": ["node_modules/@wellness-wave-ui/*/src"]
       },
       "target": "ES5",
       "module": "ESNext",

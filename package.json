@@ -1,0 +1,10 @@
+{
+  "name": "wellness-wave-ui",
+  "version": "1.0.0",
+  "description": "This repository contains the frontend code for the WellnessWave application. It's designed to provide a seamless and intuitive user experience, ensuring that users can easily navigate through the app and access all the features available.",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "Team DevDynasty",
+  "license": "ISC"
+}
